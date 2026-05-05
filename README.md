@@ -24,3 +24,6 @@ Por último, en cuanto a los días, se ve que la variable OT aumenta al final de
 Otros aspectos que se tienen en cuenta en el EDA es la carencia de nulos, lo cual facilita la gestión de procesado. Además, la columna 
 fecha tenía formato object, por lo que se tuvo que hacer un df temporal, cambiando la variable a datetime, para poder hacer la 
 separación de la temporalidad.
+
+## Licencia
+MIT License — libre para uso académico y personal.
