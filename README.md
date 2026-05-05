@@ -5,6 +5,14 @@ Este EDA ha sido elaborado para la realización de la práctica sobre Redes
 Neuronales Recurrentes para la asignatura de Deep Learning del Máster en Ciencia
 de Datos por la Universidad Oberta de Catalunya.
 
+El análisis se hizo como paso previo (e imprescindible) para trabajar con series 
+temporales, para la predicción de la temperatura del aceite de transformadores eléctricos.
+
+## Dataset
+Disponible en: https://github.com/zhouhaoyi/ETDataset
+
+En concreto, el EDA pertenece al dataset ETTh1.
+
 ## Insights del EDA
 
 Atendiendo la gráfica de correlación, solo existe correlación entre las temperaturas HUFL (High UseFul Load) y MUFL (Middle UseFul Load),
